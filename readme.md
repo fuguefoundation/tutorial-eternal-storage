@@ -1,4 +1,8 @@
+# See tutorial on Medium
+https://medium.com/@fuguefoundation/upgradeable-contracts-eternal-storage-example-using-zeppelinos-and-truffle-b680a86620cf
+
 # Upgradeability using Eternal Storage
+https://github.com/zeppelinos/labs/tree/master/upgradeability_using_eternal_storage
 
 The idea of this approach is to allow us to upgrade a contract's behavior, using the same generic storage structure 
 for any contract. This is a set of mappings for each type variable which could be accessed or modified inside the 
